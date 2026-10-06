@@ -1,0 +1,6 @@
+hola
+estoy probando el juego 
+
+de momento funciona
+pero no se cuando parara de funcionar
+vamos a probar la funcion 4
